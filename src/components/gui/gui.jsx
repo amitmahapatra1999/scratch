@@ -406,16 +406,15 @@ const GUIComponent = (props) => {
                                             vm={vm}
                                         />
                                     </Box>
-                                    <Box
-                                        style={{
-                                            width: "400px",
-                                            padding: "20px",
-                                            overflow: "scroll",
-                                        }}
-                                    >
-                                        <h4>{"Instructions"}</h4>
-                                        <Box>{"udhfuhudhg"}</Box>
-                                    </Box>
+                                </Box>
+                                <Box
+                                    style={{
+                                        width: "400px",
+                                        padding: "20px",
+                                        overflow: "scroll",
+                                    }}
+                                >
+                                    <h4>tfgvftfghcyfgcgf</h4>
                                 </Box>
                             </Box>
                         </Box>

@@ -4588,13 +4588,13 @@ const GUIComponent = props => {
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement(_containers_target_pane_jsx__WEBPACK_IMPORTED_MODULE_12__["default"], {
       stageSize: stageSize,
       vm: vm
-    })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement(_box_box_jsx__WEBPACK_IMPORTED_MODULE_16__["default"], {
+    }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement(_box_box_jsx__WEBPACK_IMPORTED_MODULE_16__["default"], {
       style: {
         width: "400px",
         padding: "20px",
         overflow: "scroll"
       }
-    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement("h4", null, "Instructions"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement(_box_box_jsx__WEBPACK_IMPORTED_MODULE_16__["default"], null, "udhfuhudhg"))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement(_containers_drag_layer_jsx__WEBPACK_IMPORTED_MODULE_26__["default"], null));
+    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement("h4", null, "tfgvftfghcyfgcgf")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement(_containers_drag_layer_jsx__WEBPACK_IMPORTED_MODULE_26__["default"], null));
   });
 };
 GUIComponent.propTypes = {
@@ -42382,4 +42382,4 @@ module.exports = /*#__PURE__*/JSON.parse('[{"name":"Abby","tags":["people","pers
 /***/ })
 
 }]);
-//# sourceMappingURL=src_containers_gui_jsx-src_lib_app-state-hoc_jsx-src_lib_hash-parser-hoc_jsx.04c1c36a9ecffcfe80c2.js.map
+//# sourceMappingURL=src_containers_gui_jsx-src_lib_app-state-hoc_jsx-src_lib_hash-parser-hoc_jsx.0f027edca57c61556c80.js.map
